@@ -40,7 +40,7 @@ const quotes = [
 const getRandomArrayNumber = (arr) => {
 	const arrayLength = arr.length
 	const randomNumber = Math.floor(Math.random() * arrayLength);
-	
+
 	arr.sort(function() { return 0.5 - Math.random() }); // Randomly sort the selected array, to minimize the posibility that the same array element get selected twice
 
 	return randomNumber; //Return the random number
@@ -49,7 +49,7 @@ const getRandomArrayNumber = (arr) => {
 //Returns a random quotes from the quotes array based on the random number given from getRandomArrayNumber
 const getRandomQuote = () => {
 	const randomQuote = quotes[getRandomArrayNumber(quotes)]; // Store the selected quoted based on the random number
-	
+
 	return randomQuote;	// Returns the selected quote
 }
 
@@ -65,7 +65,7 @@ const getRandomColor = () => {
 const printQuote = () => {
 	const quote = getRandomQuote(); // Store the return value from getRandomQuote
 	const color = getRandomColor(); // Store the return value from getRandomColor
-	
+
 	/**
 		Object Holds the various html elements and the value they should return from the quotes objects array
 		quote: paragraph returning quote.quote
@@ -85,27 +85,30 @@ const printQuote = () => {
 	};
 
 	let quoteHtml = quoteHtmlElements.quote + quoteHtmlElements.source;	// Html to be returned, by default it includes quote and source
-	
+
 	if(quote.citation) { // Check to see if citation is added, then add it to the quoteHtml
 		quoteHtml += quoteHtmlElements.citation;
 	}
-	
+
 	if(quote.year) { // Check to see if Year is added, then add it to the quoteHtml												
 		quoteHtml += quoteHtmlElements.year;
 	}
-	
+
 	if(quote.tags) { // Check to see if Year is added, then add it to the quoteHtml													
 		quoteHtml += quoteHtmlElements.tags;
 	}
-	
+
 	quoteHtml += quoteHtmlElements.closeSource; // Add closeSource to quoteHtml
-	
+
 	document.querySelector('body').style.background = '#' + color // Add the selected getRandomColor as the background color
 	document.querySelector('#loadQuote').style.background = '#' + color // Change the background color of the "Show another quote" button to the same as the background color
 	document.getElementById('quote-box').innerHTML = quoteHtml;	// Add quoteHtml to webpage DOM
 }
 
 const intervalID = window.setInterval(printQuote, 4000); // Change random quote after 4 seconds, invokes printQuote
+
+
+printQuote() // Init printquote on page load and page refresh.
 
 // event listener to respond to "Show another quote" button clicks
 // when user clicks anywhere on the button, the "printQuote" function is called
