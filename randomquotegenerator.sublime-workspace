@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quoteHtml",
+				"quoteHtmlElements"
+			],
+			[
+				"quotehtml",
+				"quoteHtmlElements"
+			],
+			[
+				"quoteH",
+				"quoteHtml"
+			],
+			[
+				"currentLoan",
+				"currentLoanAmount"
+			],
+			[
+				"currentP",
+				"currentPlansLoan"
+			],
+			[
+				"currentCall",
+				"currentCallCount"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"load",
+				"loadCall"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"called",
+				"calledArray"
+			],
+			[
+				"int",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"clientN",
+				"clientName"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"getelem",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"style",
+				"style\t Style CSS"
+			],
+			[
+				"click",
+				"clickToChange"
+			],
+			[
+				"apply",
+				"applyChangesBtn"
+			],
+			[
+				"even",
+				"Event\t( type: DOMString, eventInitDict?: EventInit ): Event Event"
+			],
+			[
+				"fill",
+				"fillColorField"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Search",
+				"searchTerm"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"ania",
+				"animator\tAnimator"
+			],
+			[
+				"moveboss",
+				"moveBossToY\tfloat"
+			],
+			[
+				"oveB",
+				"moveBossToX\tfloat"
+			],
+			[
+				"move",
+				"moveBossToY\tfloat"
+			],
+			[
+				"max",
+				"maxYPos\tfloat"
+			],
+			[
+				"moveBoss",
+				"moveBossToY\tfloat"
+			],
+			[
+				"bossS",
+				"bossStarted\tbool"
+			],
+			[
+				"uni",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"_music",
+				"_musicToggle\tToggle"
+			],
+			[
+				"play",
+				"Play()\tvoid"
+			],
+			[
+				"music",
+				"_music\tAudioSource"
+			],
+			[
+				"DOF",
+				"DOFade(float endValue, float duration)\tTweener"
+			],
+			[
+				"GetO",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"GetCOm",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"rect",
+				"RectTransform\tRectTransform"
+			],
+			[
+				"veco",
+				"Vector3()\tVector3()"
+			],
+			[
+				"Game",
+				"GameObject\tGameObject"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"spee",
+				"PlayerChangeSpeed()\tIEnumerator"
+			],
+			[
+				"vector",
+				"Vector3\tVector3"
+			],
+			[
+				"tran",
+				"Translate(Vector3 translation)\tvoid"
+			],
+			[
+				"tween",
+				"Tweener\tTweener"
+			],
+			[
+				"in",
+				"Instantiate(Object original, Transform parent)\tObject"
+			],
+			[
+				"Find",
+				"FindGameObjectWithTag(string tag)\tGameObject"
+			],
+			[
+				"FInd",
+				"FindWithTag(string tag)\tGameObject"
+			],
+			[
+				"startCorout",
+				"StartCoroutine(string methodName)\tCoroutine"
+			],
+			[
+				"startCor",
+				"StartCoroutine(string methodName)\tCoroutine"
+			],
+			[
+				"Ani",
+				"Animator\tAnimator"
+			],
+			[
+				"Ienumera",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"stop",
+				"StopCoroutine(string methodName)\tvoid"
+			],
+			[
+				"boss",
+				"bossController\tbossController"
+			],
+			[
+				"GetCom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Ien",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"Ienume",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"anima",
+				"animator\tAnimator"
+			],
+			[
+				"anim",
+				"animator\tAnimator"
+			],
+			[
+				"ien",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"An",
+				"Animator\tAnimator"
+			],
+			[
+				"global",
+				"globalGameData\tglobalGameData"
+			],
+			[
+				"enemy",
+				"enemeyBoxes\tGameObject"
+			],
+			[
+				"rotate",
+				"Rotate(Vector3 axis, float angle)\tvoid"
+			],
+			[
+				"mesh",
+				"MeshCollider\tMeshCollider"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "// Array of objects containing quotes\nconst quotes = [\n{\n\tquote: 'You must be the change you wish to see in the world.', \t\t\t\t\t\t\t\t\t\t\t// quote\n\tsource: 'Gandhi', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// creator of the quote\n\tcitation: null, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// where the quote comes from\n\tyear: null, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// the date of the quote\n\ttags: 'Lifestyle', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote category\n},\n{\n\tquote: 'I came, I saw, I conquered.', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote\n\tsource: 'Gaius Julius Caesar, Roman emperor', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// creator of the quote\n\tcitation: 'Report on his victory over Pharnaces II of Pontus in the battle of Zela', \t\t\t\t\t// where the quote comes from\n\tyear: '47 BC', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// the date of the quote\n\ttags: 'Leadership', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote category\n},\n{\n\tquote: 'The only thing we have to fear is fear itself', \t\t\t\t\t\t\t\t\t\t\t\t// quote\n\tsource: 'Franklin D Roosevelt', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// creator of the quote\n\tcitation: ' Franklin D Roosevelt’s first inaugural address, delivered at the United States Capitol', \t// where the quote comes from\n\tyear: 1933, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// the date of the quote\n\ttags: 'Political', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote category\n},\n{\n\tquote: 'You can do anything but not everything', \t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote\n\tsource: 'David Allen', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// creator of the quote\n\tcitation: 'Making It All Work', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// where the quote comes from\n\tyear: 2009, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// the date of the quote\n\ttags: 'Lifestyle', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote category\n},\n{\n\tquote: 'Everything should be made as simple as possible, but not simpler.', \t\t\t\t\t\t\t// quote\n\tsource: 'Albert Einstein', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// creator of the quote\n\tcitation: null, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// where the quote comes from\n\tyear: null, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// the date of the quote\n\ttags: 'Lifestyle', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// quote category\n},];\n\n// gets a random quote and returns it\nconst getRandomQuote = () => {\n\tconst randomNumber = Math.floor(Math.random() * (0, quotes.length ));\t// generates a random number from 0 to the length of the quotes array \n\tconst randomQuote = quotes[randomNumber]; \t\t\t\t\t\t\t\t// Gets the quote with the number generated from the randomNumber variable\n\t\n\treturn randomQuote; \t\t\t\t\t\t\t\t\t\t\t\t\t// Return the values of the randomly selected quote\n}\n\n// Print the selected random quote from the getRandomQuote function to the webpage index.html\nconst printQuote = () => {\n\tconst quote = getRandomQuote(); \t\t\t\t\t\t\t\t\t\t// Store the return value from getRandomQuote\n\t\n\tconst quoteHtmlElements = {\t\t\t\t\t\t\t\t\t\t\t\t// Html elements represented as an object\n\t\tquote: '<p class=\"quote\">' + quote.quote + '</p>',\t\t\t\t\t// Quote html\n\t\tsource: '<p class=\"source\">' + quote.source,\t\t\t\t\t\t// Source Html\n\t\tcitation: '<span class=\"citation\">' + quote.citation + '</span>',\t// Citation Html\n\t\tyear: '<span class=\"year\">' + quote.year + '</span>',\t\t\t\t// Year Html\n\t\ttags: '<span class=\"tags\">' + quote.tags + '</span>',\n\t\tcloseSource: '</p>'\t\t\t\t\t\t\t\t\t\t\t\t\t// Close the open source paragraph\n\t}\n\n\t\n\tlet quoteHtml = quoteHtmlElements.quote + quoteHtmlElements.source;\t\t// Html to be returned, by default it includes quote and source\n\t\n\tif(quote.citation) {\t\t\t\t\t\t\t\t\t\t\t\t\t// Check to see if citation is added, then add it to the quoteHtml\n\t\tquoteHtml += quoteHtmlElements.citation; \t\t\t\t\t\t\t// Add citation to quotehtml\n\t}\n\n\tif(quote.year) {\t\t\t\t\t\t\t\t\t\t\t\t\t\t// Check to see if Year is added, then add it to the quoteHtml\n\t\tquoteHtml += quoteHtmlElements.year; \t\t\t\t\t\t\t\t// Add year to quoteHtml\n\t}\n\n\tif(quote.tags) {\t\t\t\t\t\t\t\t\t\t\t\t\t\t// Check to see if Year is added, then add it to the quoteHtml\n\t\tquoteHtml += quoteHtmlElements.tags; \t\t\t\t\t\t\t\t// Add year to quoteHtml\n\t}\n\n\tquoteHtml += quoteHtmlElements.closeSource; \t\t\t\t\t\t\t// Add closeSource to quoteHtml\n\n\tdocument.getElementById('quote-box').innerHTML = quoteHtml;\t\t\t\t// Add quoteHtml to webpage DOM\n}\n\nprintQuote(); \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t// Init a random quote.\n\nvar intervalID = window.setInterval(printQuote, 4000);\t\t\t\t\t\t// Change random quote after 4 seconds, invokes printQuote\n\n\n// event listener to respond to \"Show another quote\" button clicks\n// when user clicks anywhere on the button, the \"printQuote\" function is called\ndocument.getElementById('loadQuote').addEventListener(\"click\", printQuote, false);\n\n",
+			"file": "js/script.js",
+			"file_size": 4325,
+			"file_write_time": 131550542080119644,
+			"settings":
+			{
+				"buffer_size": 4323,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 487.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joakimflatmoen/Documents/git/treehousetechdegree/randomquotegenerator",
+		"/Users/joakimflatmoen/Documents/git/treehousetechdegree/randomquotegenerator/css",
+		"/Users/joakimflatmoen/Documents/git/treehousetechdegree/randomquotegenerator/js"
+	],
+	"file_history":
+	[
+		"/Users/joakimflatmoen/Documents/git/passportlogintest/public/index.html",
+		"/Users/joakimflatmoen/Documents/git/passportlogintest/index.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/app.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/views/index.ejs",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/routes/index.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/public/js/main.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/views/login.ejs",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/routes/login.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/views/partials/header.ejs",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/public/stylesheets/style.css",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/views/partials/head.ejs",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/.env",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/mileni-undersokelse-127f8c2aeebe.json",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/authentication.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/.gitignore",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/.gitnore",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/process.env",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/db.env",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/credentials.json",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/env.env",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/views/partials/footer.ejs",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/public/js/index.js",
+		"/Users/joakimflatmoen/Documents/git/mileniMarkedsUndersokelse/public/js/authentication.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/public/js/script.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/routes/index.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/head.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/omOss.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/public/css/style.css",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/teamet.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/tjenester.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/kontaktOss.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/app.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/newrelic.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/slider.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/header.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/partials/footer.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/views/index.ejs",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/server.js",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/package.json",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/.gitignore",
+		"/Users/joakimflatmoen/Documents/git/mymarketing/index.html",
+		"/Users/joakimflatmoen/Documents/git/Javascript/javascriptBasic/javascriptBasic.sublime-project",
+		"/Users/joakimflatmoen/Documents/git/historyhub/server/package.json",
+		"/Users/joakimflatmoen/Documents/git/drivetest/quickstart.js",
+		"/Users/joakimflatmoen/Documents/git/historyhub/server/index.js",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/SpawnScript.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/mobilePlayerController.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/bossController.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/bossMinionMovment.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/bossMinionSpawn.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/prefabs/gameStateController.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/bossMovment.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/MusicPlayer.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/SwipeScript.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/UiManager.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/CheckForSound.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/dbManager.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/PlayerHpUi.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/AlienKidnapping.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/birdKidnaping.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/SceneLoader.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/settingsManager.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/changeBackground.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/pickupController.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/PickUp.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/getGameDataInit.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/spawnBoss.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/dotTweentest/Assets/DOTween Examples/UGUI.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/playerHpAndBoost.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/sigwardProject.sublime-workspace",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/bossController.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/enemySpawnWarning.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/sigwardProject.sublime-project",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/backgroundOffset.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Sigward.CSharp.csproj",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/Sigward/Assets/Scripts/GameAudio.cs",
+		"/Users/joakimflatmoen/Documents/git/Unity/Sigward/Game/sigwardProject",
+		"/Users/joakimflatmoen/Documents/git/orangeDashboard/.babelrc",
+		"/Users/joakimflatmoen/Documents/git/drivetest/package.json",
+		"/Users/joakimflatmoen/Documents/git/Orange/database/orangeDbBak.sql",
+		"/Users/joakimflatmoen/Documents/git/Orange/database/orangeDb.sql",
+		"/Applications/MAMP/htdocs/orangefinans/wp-content/themes/Avada/footer.php",
+		"/Applications/MAMP/htdocs/orangefinans/wp-content/themes/Avada-Child-Theme/custom.js",
+		"/Applications/MAMP/htdocs/orangefinans/wp-content/themes/Avada/custom.js",
+		"/Users/joakimflatmoen/Downloads/Avada_Full_Package/Avada Theme/Avada-Child-Theme/functions.php",
+		"/Users/joakimflatmoen/Desktop/nettsise/index.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"year",
+			"named"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2350,
+								2350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 772.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								907,
+								907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 45.0
+	},
+	"pinned_build_system": "",
+	"project": "randomquotegenerator.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
