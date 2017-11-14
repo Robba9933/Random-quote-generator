@@ -66,7 +66,7 @@ const printQuote = () => {
 	const quote = getRandomQuote(); // Store the return value from getRandomQuote
 	const color = getRandomColor(); // Store the return value from getRandomColor
 	
-	/** 
+	/**
 		Object Holds the various html elements and the value they should return from the quotes objects array
 		quote: paragraph returning quote.quote
 		source: paragraph returning quote.source
