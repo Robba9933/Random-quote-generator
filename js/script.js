@@ -107,7 +107,6 @@ const printQuote = () => {
 
 const intervalID = window.setInterval(printQuote, 4000); // Change random quote after 4 seconds, invokes printQuote
 
-
 printQuote() // Init printquote on page load and page refresh.
 
 // event listener to respond to "Show another quote" button clicks
