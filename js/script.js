@@ -40,7 +40,7 @@ const quotes = [
 const getRandomArrayNumber = (arr) => {
 	const arrayLength = arr.length
 	const randomNumber = Math.floor(Math.random() * arrayLength);
-
+	// Why minimize? Why not exterminate the posibility
 	arr.sort(function() { return 0.5 - Math.random() }); // Randomly sort the selected array, to minimize the posibility that the same array element get selected twice
 
 	return randomNumber; //Return the random number
